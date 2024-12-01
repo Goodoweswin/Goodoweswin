@@ -1,9 +1,6 @@
 ## Hi there 👋this is Jie Dai, I am a clinical medical student from Union Hospital, Tongji medical college, Huazhong university of science and technology.🏥🏥🏥
 I have huge interests in data artificial intelligence, data science, currently learning about bioinformantics.
-<!-- I love to join different parties and look into Questions with different angles.
-**Goodoweswin/Goodoweswin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ I love to join different parties and look into Questions with different angles.
 
 - 🔭 I’m currently working on clinical medicine MD program in China.
 - 🌱 I’m currently learning Clinical data analysis and visualizion,I'm ready to move further in this way.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: E-mail me in daijie@hust.edu.cn or daiger870@outlook.com.
 - 😄 Pronouns: Jenius(the balance between My Chiese name and English name😎)
 - ⚡ Fun fact: Call me by Jenius is totally the meaning and pronounciation.
--->A
+
