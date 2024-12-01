@@ -1,5 +1,5 @@
 ## Hi there 👋this is Jie Dai, I am a clinical medical student from Union Hospital, Tongji medical college, Huazhong university of science and technology.🏥🏥🏥
-![Uploading image.png…]()
+![Subject](https://github.com/user-attachments/assets/4adc1fc6-8471-4b4d-9686-36d69d9fe2d2)
 
 I have huge interests in data artificial intelligence, data science, currently learning about bioinformantics.
  I love to join different parties and look into Questions with different angles. Away from acadmics I 'm quite into football and photography.
